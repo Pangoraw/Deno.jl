@@ -5,21 +5,21 @@ libc = "glibc"
 os = "linux"
 
     [[deno_exe.download]]
-    sha256 = "0b552ef17352b053c5de602ad5ee02d100a28f956f09cbee18552c5e5cae26c3"
-    url = "https://github.com/Pangoraw/Deno.jl/releases/download/v1.9.2-3/deno-x86_64-unknown-linux-gnu-1.9.2-3.tar.gz"
+    sha256 = "217958502e2d0a4eb7ea326cafa1cd175cec0b641d12879d907517f077398022"
+    url = "https://github.com/Pangoraw/DenoBuilder/releases/download/v1.9.2-4/deno-x86_64-unknown-linux-gnu-1.9.2-4.tar.gz"
 [[deno_exe]]
 arch = "x86_64"
 git-tree-sha1 = "5353789136b3b0e6d8fb2c3be52ca070e488b203"
 os = "windows"
 
     [[deno_exe.download]]
-    sha256 = "f5b546aa5e8cdd45d8c61e34991d328720b3949aaf84e8b0950c9e8ce3976a13"
-    url = "https://github.com/Pangoraw/Deno.jl/releases/download/v1.9.2-3/deno-x86_64-pc-windows-msvc-1.9.2-3.tar.gz"
+    sha256 = "24fd029770ff1524c67e9041cb8add5b2e19637caf2627cbfd4a212a48ac49bc"
+    url = "https://github.com/Pangoraw/DenoBuilder/releases/download/v1.9.2-4/deno-x86_64-pc-windows-msvc-1.9.2-4.tar.gz"
 [[deno_exe]]
 arch = "x86_64"
 git-tree-sha1 = "307ba7ca1a67052523c420c751cc07609e7ce2e8"
 os = "macos"
 
     [[deno_exe.download]]
-    sha256 = "3554b6227db671c101b9d7ece199de737c9e6fc1f26029bac3eb01bd1fe56a6d"
-    url = "https://github.com/Pangoraw/Deno.jl/releases/download/v1.9.2-3/deno-x86_64-apple-darwin-1.9.2-3.tar.gz"
+    sha256 = "308e071d1c9874a78c3674fc8aff7b99d9abf7d768f862a0a02519320e20ccde"
+    url = "https://github.com/Pangoraw/DenoBuilder/releases/download/v1.9.2-4/deno-x86_64-apple-darwin-1.9.2-4.tar.gz"
