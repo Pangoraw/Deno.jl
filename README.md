@@ -1,6 +1,7 @@
 # Deno.jl
 
 This package allows downloading deno via the [artifacts system](https://docs.julialang.org/en/v1/stdlib/Artifacts/#Artifacts) of Julia.
+The actual tarball containing the executable is built in [DenoBuilder](https://github.com/JuliaPluto/DenoBuilder).
 
 ## Usage
 
