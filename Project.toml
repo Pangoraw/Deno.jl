@@ -1,6 +1,6 @@
 name = "Deno"
 uuid = "029e445c-518c-4b06-8f3a-3e061523a871"
-version = "0.0.1"
+version = "1.9.2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
